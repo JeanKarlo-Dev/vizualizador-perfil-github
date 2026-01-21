@@ -74,4 +74,4 @@ src/
 Este projeto é livre para uso educacional.
 
 ---
-Desenvolvido por Gean Karlo para fins de estudo e prática.
+Desenvolvido por Jean Karlo para fins de estudo e prática.
