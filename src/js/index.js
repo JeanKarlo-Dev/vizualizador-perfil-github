@@ -26,3 +26,10 @@ btnSearch.addEventListener('click', async () => {
         clearProfile(profileResults);
     }
 });
+
+// Buscar ao pressionar Enter no input
+inputSearch.addEventListener('keydown', (event) => {
+    if (event.key === 'Enter') {
+        btnSearch.click();
+    }
+});
